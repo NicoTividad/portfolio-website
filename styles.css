@@ -1,0 +1,28 @@
+body{
+    background-color: #407088;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+    color: grey;
+}
+
+h1{
+    text-align: center;
+    color: #ffcbcb;
+}
+
+.subheading{
+    color: #ffb5b5;
+}
+
+.socialLinks {
+
+    text-align: right;
+}
+
+header .link,
+footer .link{
+    color: #132743;
+}
